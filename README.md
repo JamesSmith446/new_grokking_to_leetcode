@@ -387,7 +387,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Redundant Connection](https://leetcode.com/problems/redundant-connection/)
 
-- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [ X ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 
 - [ ] [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column)
 
